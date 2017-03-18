@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "506645460809",
+    "firebase_url": "https://cabcabcomparison.firebaseio.com",
+    "project_id": "cabcabcomparison",
+    "storage_bucket": "cabcabcomparison.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506645460809:android:34c9240bfba91ee5",
+        "android_client_info": {
+          "package_name": "com.sumit.cab.cabcabcomparison"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506645460809-r10ru4ic7sto8pknbq2j020g0b080nn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sumit.cab.cabcabcomparison",
+            "certificate_hash": "92a822ab2a6c57b9bb3ea63e49004e88505670d6"
+          }
+        },
+        {
+          "client_id": "506645460809-afj1fcen17hptv6b70j9vcl4lijvppsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxnO31SiCBpHWf-J5GxfzikQPz8LvOPGc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506645460809-afj1fcen17hptv6b70j9vcl4lijvppsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

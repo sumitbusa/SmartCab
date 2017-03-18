@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartCab</string>
+    <string name="App_Title">SmartCab</string>
+    <string name="subtitle">Live life Smarter!</string>
+    <string name="title">Agriculture</string>
+    <string name="getStarted">Get Started</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
